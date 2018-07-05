@@ -10,7 +10,7 @@
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
     {"name":"puppetlabs-powershell","version_requirement": ">=2.0.1"},
-    {"name":"jfryman-selinux","version_requirement": ">=0.4.0"},
+    {"name":"puppet-selinux","version_requirement": ">=1.5.2"},
     {"name":"ghoneycutt-rsyslog","version_requirement": ">=0.24.1"}
   ],
   "operatingsystem_support": [
@@ -75,4 +75,3 @@
     }
   ]
 }
-
